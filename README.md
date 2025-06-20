@@ -72,3 +72,24 @@ Module 6: Balanced Trees and Hashing
 Module 7: Graphs 
 
     Lesson 30: Graph Representations & Traversals (BFS, DFS)
+
+## 🧪 Lab Problem Highlights
+
+Official lab problems aligned with BTech Semester 3 syllabus (303105202) and supported by concepts from 303105201 – Design of Data Structures.
+| 💻 Lab No. | 🔧 Problem Statement                                                                                             |
+| ---------- | ---------------------------------------------------------------------------------------------------------------- |
+| 1          | Implement **Stack** and its operations: `push`, `pop`, `peek`, `traverse`, `search` using linear data structures |
+| 2          | Convert **Infix to Postfix** expression using Stack                                                              |
+| 3          | Evaluate a **Postfix Expression** using Stack                                                                    |
+| 4          | Solve **Towers of Hanoi** problem using Stack/Recursion                                                          |
+| 5          | Implement **Queue** with operations: `enqueue`, `dequeue`, `traverse`, `search`                                  |
+| 6          | Create and manipulate a **Singly Linked List**: `insert`, `delete`, `search`, `reverse`, `traverse`              |
+| 7          | Implement a **Doubly Linked List** with full operations                                                          |
+| 8          | Implement **Binary Search** and **Interpolation Search**                                                         |
+| 9          | Implement **Sorting Algorithms**: Bubble, Selection, Insertion, Quick, Merge                                     |
+| 10         | Build and manage a **Binary Search Tree (BST)**: `create`, `insert`, `delete`                                    |
+| 11         | Perform **Tree Traversals** on BST: Inorder, Preorder, Postorder                                                 |
+| 12         | Implement **Graphs** using adjacency list and matrix, and perform **BFS** and **DFS** traversals                 |
+
+
+
