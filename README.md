@@ -67,9 +67,11 @@ Module 6: Balanced Trees and Hashing
 
     Lesson 28: AVL Trees and Red-Black Trees: Operations
 
-    Lesson 29: Hashing Techniques, Static vs Dynamic, Collision Resolution
+Module 7: Hashing 
 
-Module 7: Graphs 
+    Lesson 29: Hashing Techniques, Static vs Dynamic, Collision Resolution
+    
+Module 8: Graphs 
 
     Lesson 30: Graph Representations & Traversals (BFS, DFS)
 
